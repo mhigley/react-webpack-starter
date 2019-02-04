@@ -4,6 +4,7 @@ Based off of a [tutorial](https://www.youtube.com/watch?v=JdGnYNtuEtE&index=1&li
 
 - React ready
 - Webpack enabled
+- Sass super charged
 - Cleanup via rimraf
 
 ## Getting Started
