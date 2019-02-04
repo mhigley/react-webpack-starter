@@ -2,11 +2,11 @@
 
 #### Based off of a tutorial by Petr Tichy
 
----
-
 - React ready
 - Webpack enabled
 - Cleanup via rimraf
+
+---
 
 ## Instructions:
 
